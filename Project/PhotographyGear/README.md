@@ -1,4 +1,4 @@
-# Photography Gear & Lens Inventory App — Wipro Project 37
+# Photography Gear & Lens Inventory App
 
 Native iPhone app, SwiftUI + MVVM + SwiftData, iOS 17+. No Studio Mode or workspace selection.
 
